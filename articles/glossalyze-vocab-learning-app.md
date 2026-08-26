@@ -3,7 +3,7 @@ title: "英語教材のPDFや写真から単語・熟語を自動抽出する学
 emoji: "📖"
 type: "tech"
 topics: ["flutter", "個人開発", "supabase", "fastapi", "英語学習"]
-published: false
+published: true
 ---
 
 英語の教材を読み込むと、含まれている単語と熟語を自動で抽出して、自分専用の単語帳にしてくれるWebアプリを作りました。
